@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1787809657 source:c:\users\usuario\desktop\area académica\proyectos programación\proyectos en c\el juego de la vida\eljuegodelavida\game.c
+	<stdio.h>
+	"game.h"
+
+1787809164 c:\users\usuario\desktop\area académica\proyectos programación\proyectos en c\el juego de la vida\eljuegodelavida\game.h
+	"utiles.h"
+
+1787810431 c:\users\usuario\desktop\area académica\proyectos programación\proyectos en c\el juego de la vida\eljuegodelavida\utiles.h
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+
+1787810586 source:c:\users\usuario\desktop\area académica\proyectos programación\proyectos en c\el juego de la vida\eljuegodelavida\main.c
+	"game.h"
+
